@@ -12,4 +12,4 @@ This Project is used to Create Bal World Technologies Website (www.balworld.in)
 # Manage Website Backend.
 # Project Management.
 # User Levels (Employee, Client, Admin).
-# Blogging Capabilities.
+# Blogging Capabilities (wysiwyg editor).
